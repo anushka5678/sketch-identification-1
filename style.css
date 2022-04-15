@@ -1,0 +1,15 @@
+#head{
+background-color: aqua;
+}
+
+
+#show_sketch{
+    float:right;
+}
+
+#label{
+    background-color: aqua;
+}
+#confidence{
+    background-color: aqua;
+}
