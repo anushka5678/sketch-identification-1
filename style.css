@@ -13,3 +13,20 @@ background-color: aqua;
 #confidence{
     background-color: aqua;
 }
+canvas{
+    border:5px solid white;
+    border-radius:20px;
+    animation-name:example;
+    animation-duration:4s;
+    margin-top: 50px;
+    animation-iteration-count:infinite;
+}
+@keyframes example{
+from {box-shadow: 1px 1px 38px #bf1ba4;}
+to { box-shadow: 1px 1px 38px blue;}
+}
+
+p{
+    padding-top:10px;
+    font-size:25px;
+}
